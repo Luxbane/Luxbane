@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Luxbane 👋
 
-<!--
-**Luxbane/Luxbane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in **Network Engineering, Network Operations, and Network Monitoring**.
 
-Here are some ideas to get you started:
+I build projects around:
+- 🌐 Network monitoring
+- 📡 Networking & infrastructure
+- 📊 Grafana / Prometheus
+- 🐧 Linux
+- 🔧 Cisco / GNS3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [Network Monitoring](https://github.com/Luxbane/pingmonitor)
+- [GNS3 VLAN LAB](https://github.com/Luxbane/enterprise-vlan-lab)
+
+## Links
+
+- GitHub: https://github.com/Luxbane
+- Hugging Face: https://huggingface.co/Luxbane
