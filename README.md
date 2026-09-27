@@ -7,10 +7,12 @@ I build projects around:
 - 📡 Networking & infrastructure
 - 📊 Grafana / Prometheus
 - 🐧 Linux
-- 🔧 Cisco / GNS3
+- 🪟 Windows
+- 🔧 Cisco PT / GNS3
 
 ## Projects
 
+- [Suricata NIDS Monitoring](https://github.com/Luxbane/suricata-nids-monitoring)
 - [Network Monitoring](https://github.com/Luxbane/pingmonitor)
 - [GNS3 VLAN LAB](https://github.com/Luxbane/enterprise-vlan-lab)
 
