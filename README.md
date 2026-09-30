@@ -18,5 +18,4 @@ I build projects around:
 
 ## Links
 
-- GitHub: https://github.com/Luxbane
 - Hugging Face: https://huggingface.co/Luxbane
